@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "learning"
+name = "nutrition-tool"
 version = "0.1.0"
